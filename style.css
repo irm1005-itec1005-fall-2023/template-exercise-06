@@ -10,5 +10,10 @@ html {
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* Flex directives */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
