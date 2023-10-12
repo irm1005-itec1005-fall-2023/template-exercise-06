@@ -12,13 +12,11 @@
 
 ## TLDR
 
-1. Let's build a search page
-2. There are two seperate steps to this exercise. The first step provides you with practice laying out a page using flexbox. The second step is to build an actual search page. 
-3. You will be updating two seperate style sheets to build the two required pages (`style-01.css` and `style-02.css`). 
-2. Do not modify any `HTML` for this tutorial exercise.
-3. Modify your css files, and commit the changes back to your repo.
-2. Turn on GitHub Pages.
-3. Submit a comment in the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) and share a link to your Search Page live web page.
+1. Let's build a complex product card.
+2. You will be updating both the `HTML` and `CSS` for this tutorial exercise.
+3. Modify your files, and commit the changes back to your repo.
+4. Turn on GitHub Pages.
+5. Submit a comment in the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) and share a link to your Search Page live web page.
 
 ## Table of contents
 
@@ -46,8 +44,8 @@ You must have completed `Tutorial 05` before attempted this exercise. Completing
 To complete this tutorial you must follow the steps below. Additional help can be found further below.
 
 - There are two files that you are going to modify in this exercise, `style.css` and `index.html`.
-- Using the final solution screenshots as a reference, add `div`s and classes to your `HTML` as you need and then add the styles for the various elements.
-- Use the hint below on how to structure the flex box containers.
+- Using the final solution screenshots as a reference, you'll need to add `div`s and classes to your `HTML` and then add the styles for the various elements. Some content has been provided in the `index.html` file, but feel free to move it around or change it as you need.
+- Use the hint below on how to structure the flexbox containers.
 - If you get stuck, you can use the example in the `solutions` folder for guidance.
 - Preview your pages using the LivePreview or LiveServer extentions in VSCode.
 - Commit your changes and push to GitHub.
