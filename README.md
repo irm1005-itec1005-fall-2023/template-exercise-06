@@ -16,7 +16,7 @@
 2. You will be updating both the `HTML` and `CSS` for this tutorial exercise.
 3. Modify your files, and commit the changes back to your repo.
 4. Turn on GitHub Pages.
-5. Submit a comment in the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) and share a link to your Search Page live web page.
+5. Submit a comment in the [Tutorial 06 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/11) and share a link to your Search Page live web page.
 
 ## Table of contents
 
@@ -51,7 +51,7 @@ To complete this tutorial you must follow the steps below. Additional help can b
 - Commit your changes and push to GitHub.
 - Turn on [GitHub Pages](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) in the `settings` section of your repository.
 - View your live web pages.
-- In the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) in our GitHub Discussion Group, add a comment with a link to your Search Page.
+- In the [Tutorial 06 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/11) in our GitHub Discussion Group, add a comment with a link to your Search Page.
 - Check out some of your other team members Vegas Club Crawl cards and make sure to tell them how awesome they are.
 
 ## Additional help
