@@ -20,10 +20,6 @@
 2. Turn on GitHub Pages.
 3. Submit a comment in the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) and share a link to your Search Page live web page.
 
-## Description
-
-The goal of this tutorial is for students to gain even more experience using `Flexbox`, a `CSS` tool that helps us layout elements on our pages.
-
 ## Table of contents
 
 - [Instructions](#instructions)
@@ -31,25 +27,42 @@ The goal of this tutorial is for students to gain even more experience using `Fl
 - [Final Solution Screenshots](#screenshots)
 - [Helpful Links](#📚-helpful-links)
 
+## Screenshots
+
+### Desired outcome
+
+As with everything we build, you are encouraged to bring in your own text styles, logo, colours, anything to make it unique. The screenshot below is just for reference and provides an overall direction for you. 
+
+![Screenshot](./images/screenshot.png)
+
+## Description
+
+The goal of this tutorial is for students to gain mastery level experience using `Flexbox`, a `CSS` tool that helps us layout elements on our pages.
+
 ## Instructions
 
-You must have completed `Tutorial 04` before attempted this exercise. The instructions below assume you have a working developer environment.
+You must have completed `Tutorial 05` before attempted this exercise. Completing this challenge will be very difficult without a solid understanding of the previous tutorials. The instructions below assume you have a working developer environment.
 
 To complete this tutorial you must follow the steps below. Additional help can be found further below.
 
-- There are two files that you are going to modify in this exercise, `style-01.css` `style-02.css`.
-- You do not need to modify any `HTML` for this tutorial exercise.
-- Using the final solution screenshots as a reference, follow the instructions in each `CSS` file to acheive the desired results.
-- `style-01.css` is a simple practice exercises to get you started with using `Flexbox` to do page layouts.
+- There are two files that you are going to modify in this exercise, `style.css` and `index.html`.
+- Using the final solution screenshots as a reference, add `div`s and classes to your `HTML` as you need and then add the styles for the various elements.
+- Use the hint below on how to structure the flex box containers.
 - If you get stuck, you can use the example in the `solutions` folder for guidance.
-- Preview your pages using the LivePreview (or similiar) feature in VSCode.
+- Preview your pages using the LivePreview or LiveServer extentions in VSCode.
 - Commit your changes and push to GitHub.
 - Turn on [GitHub Pages](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) in the `settings` section of your repository.
 - View your live web pages.
 - In the [Tutorial 05 - Show and Tell discussion](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/9) in our GitHub Discussion Group, add a comment with a link to your Search Page.
-- Check out some of your other team members Navigation Bars and make sure to tell them how awesome they are.
+- Check out some of your other team members Vegas Club Crawl cards and make sure to tell them how awesome they are.
 
 ## Additional help
+
+### Hint about flex box containers 
+
+Here is one way you can layout your flexbox container and flexbox items so that everything is positioned properly.
+
+![Screenshot](./images/flexbox-hint.png)
 
 ### Cloning your tutorial repository
 
@@ -58,18 +71,6 @@ Refer to the Birghtspace videos `Setting up all the things` for instructions on 
 ### Activating GitHub pages
 
 Refer to this [discussion post](https://github.com/orgs/irm1005-itec1005-fall-2023/discussions/4) for instructions on how to turn on the GitHub Pages service for your repository.
-
-## Screenshots
-
-### Image of Step 01
-
-![Screenshot](./images/screenshot-step-01.png)
-
-### Image of Step 02
-
-You are encouraged to bring in your own text styles, logo, colours, anything to make it unique. The screenshot below is just for reference. 
-
-![Screenshot](./images/screenshot-step-02.png)
 
 ## 📚 Helpful links
 
